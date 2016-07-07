@@ -1,0 +1,10 @@
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\bin\Debug\phunh03919.exe.config
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\bin\Debug\phunh03919.exe
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\bin\Debug\phunh03919.pdb
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\bin\Debug\phunh03919.xml
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\obj\Debug\phunh03919.frmSanPham.resources
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\obj\Debug\phunh03919.Resources.resources
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\obj\Debug\phunh03919.vbproj.GenerateResource.Cache
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\obj\Debug\phunh03919.exe
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\obj\Debug\phunh03919.xml
+c:\users\pc01\documents\visual studio 2012\Projects\phunh03919\phunh03919\obj\Debug\phunh03919.pdb
